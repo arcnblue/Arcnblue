@@ -21,5 +21,15 @@ namespace FormsUI
         {
             Application.Exit();
         }
+
+        private void metroButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
